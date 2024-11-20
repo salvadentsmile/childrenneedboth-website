@@ -1,0 +1,716 @@
+Uri: https://www.childrenneedboth.com/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/2024/01/23/consideration-each-other/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\consideration-each-other\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/2024/01/23/consideration-each-other/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\consideration-each-other\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/2024/01/23/family-time-for-mental-health-well-being/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\family-time-for-mental-health-well-being\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/2024/01/23/family-time-for-mental-health-well-being/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\family-time-for-mental-health-well-being\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/2024/01/23/keep-children-safe-online/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\keep-children-safe-online\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/2024/01/23/keep-children-safe-online/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\keep-children-safe-online\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/2024/01/23/parental-responsibility-raising-successful-children/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\parental-responsibility-raising-successful-children\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/2024/01/23/parental-responsibility-raising-successful-children/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\parental-responsibility-raising-successful-children\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/2024/01/23/process-of-seperating/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\process-of-seperating\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/2024/01/23/process-of-seperating/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\process-of-seperating\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/2024/01/23/resolve-parental-separation-conflicts/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\resolve-parental-separation-conflicts\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/2024/01/23/resolve-parental-separation-conflicts/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\01\23\resolve-parental-separation-conflicts\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/2024/02/03/benefits-of-co-parenting-childrens-wellbeing/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\02\03\benefits-of-co-parenting-childrens-wellbeing\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/2024/02/03/benefits-of-co-parenting-childrens-wellbeing/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\02\03\benefits-of-co-parenting-childrens-wellbeing\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/2024/02/03/childrens-well-being/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\02\03\childrens-well-being\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/2024/02/03/childrens-well-being/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\2024\02\03\childrens-well-being\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/about/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\about\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/category/childrens-rights/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\childrens-rights\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/category/childrens-rights/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\childrens-rights\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/category/childs-wellbeing/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\childs-wellbeing\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/category/childs-wellbeing/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\childs-wellbeing\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/category/stop-bullying-abuse/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\stop-bullying-abuse\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/category/stop-bullying-abuse/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\stop-bullying-abuse\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/category/your-rights/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\your-rights\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/category/your-rights/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\your-rights\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/category/your-well-being/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\your-well-being\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/category/your-well-being/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\category\your-well-being\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/comments/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/contact-2/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\contact-2\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/our-services/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\our-services\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/tag/child-development/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\child-development\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/tag/child-development/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\child-development\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/tag/child-safety/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\child-safety\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/tag/child-safety/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\child-safety\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/tag/difficult-people/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\difficult-people\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/tag/difficult-people/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\difficult-people\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/tag/difficult-situations/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\difficult-situations\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/tag/difficult-situations/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\difficult-situations\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/tag/family-therapy/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\family-therapy\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/tag/family-therapy/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\family-therapy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/tag/parenting/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\parenting\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/tag/parenting/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\parenting\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/tag/rights/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\rights\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/tag/rights/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\rights\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/tag/single-parenting/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\single-parenting\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/tag/single-parenting/feed/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\tag\single-parenting\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.childrenneedboth.com/useful-reads/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\useful-reads\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/what-is-mediation/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\what-is-mediation\index.htm
+Content Type: text/html
+
+Uri: https://www.childrenneedboth.com/wp-content/fonts/05f7a6a032a98585c04a837994ba15ba.css?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\fonts\05f7a6a032a98585c04a837994ba15ba.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/fonts/9afbda710cba4e7930aa78306e43f695.css?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\fonts\9afbda710cba4e7930aa78306e43f695.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/fonts/dm-sans/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRR232VGM.woff2
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\fonts\dm-sans\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRR232VGM.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.childrenneedboth.com/wp-content/fonts/dm-sans/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW32.woff2
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\fonts\dm-sans\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW32.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.childrenneedboth.com/wp-content/fonts/dm-sans/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\fonts\dm-sans\rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.childrenneedboth.com/wp-content/fonts/dm-sans/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\fonts\dm-sans\rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.childrenneedboth.com/wp-content/fonts/handlee/-F6xfjBsISg9aMakPm3wow.woff2
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\fonts\handlee\-F6xfjBsISg9aMakPm3wow.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.childrenneedboth.com/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css?ver=3.2.33
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\plugins\kadence-blocks\dist\style-blocks-column.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/plugins/kadence-blocks/dist/style-blocks-form.css?ver=3.2.33
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\plugins\kadence-blocks\dist\style-blocks-form.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/plugins/kadence-blocks/dist/style-blocks-iconlist.css?ver=3.2.33
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\plugins\kadence-blocks\dist\style-blocks-iconlist.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/plugins/kadence-blocks/dist/style-blocks-image.css?ver=3.2.33
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\plugins\kadence-blocks\dist\style-blocks-image.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/plugins/kadence-blocks/dist/style-blocks-infobox.css?ver=3.2.33
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\plugins\kadence-blocks\dist\style-blocks-infobox.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css?ver=3.2.33
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\plugins\kadence-blocks\dist\style-blocks-rowlayout.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/plugins/kadence-blocks/dist/style-blocks-testimonials.css?ver=3.2.33
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\plugins\kadence-blocks\dist\style-blocks-testimonials.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/plugins/kadence-blocks/includes/assets/js/kb-form-block.min.js?ver=3.2.33
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\plugins\kadence-blocks\includes\assets\js\kb-form-block.min.js
+Content Type: text/javascript
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/css/content.min.css?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\css\content.min.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/css/footer.min.css?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\css\footer.min.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\css\global.min.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/css/header.min.css?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\css\header.min.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/css/kadence-splide.min.css?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\css\kadence-splide.min.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/css/related-posts.min.css?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\css\related-posts.min.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/css/sidebar.min.css?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\css\sidebar.min.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\js\navigation.min.js
+Content Type: text/javascript
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/js/splide-init.min.js?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\js\splide-init.min.js
+Content Type: text/javascript
+
+Uri: https://www.childrenneedboth.com/wp-content/themes/kadence/assets/js/splide.min.js?ver=1.1.51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\themes\kadence\assets\js\splide.min.js
+Content Type: text/javascript
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1-1-150x150.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1-1-150x150.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1-1-300x300.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1-1-300x300.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1-1.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1-1.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1-150x150.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1-150x150.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1-180x180.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1-180x180.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1-192x192.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1-192x192.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1-270x270.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1-270x270.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1-300x300.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1-300x300.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1-32x32.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1-32x32.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/cropped-logo-512-children-need-both-1.png
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\cropped-logo-512-children-need-both-1.png
+Content Type: image/png
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/home-img-1-300x202.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\home-img-1-300x202.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/home-img-1.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\home-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/home-img-2jpg-209x300.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\home-img-2jpg-209x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/home-img-2jpg.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\home-img-2jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/home-img-3-300x202.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\home-img-3-300x202.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/home-img-3.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\home-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/home-img-4-300x202.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\home-img-4-300x202.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/home-img-4.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\home-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/man-in-black-sweater-and-blue-denim-1024x683.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\man-in-black-sweater-and-blue-denim-1024x683.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/man-in-black-sweater-and-blue-denim-1536x1024.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\man-in-black-sweater-and-blue-denim-1536x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/man-in-black-sweater-and-blue-denim-300x200.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\man-in-black-sweater-and-blue-denim-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/man-in-black-sweater-and-blue-denim-768x512.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\man-in-black-sweater-and-blue-denim-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/man-in-black-sweater-and-blue-denim.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\man-in-black-sweater-and-blue-denim.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/med-img-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\med-img-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/med-img-1.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\med-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/person-holding-brown-framed-eyeglasses-1024x1536.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\person-holding-brown-framed-eyeglasses-1024x1536.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/person-holding-brown-framed-eyeglasses-200x300.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\person-holding-brown-framed-eyeglasses-200x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/person-holding-brown-framed-eyeglasses-683x1024.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\person-holding-brown-framed-eyeglasses-683x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/person-holding-brown-framed-eyeglasses-768x1152.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\person-holding-brown-framed-eyeglasses-768x1152.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/person-holding-brown-framed-eyeglasses.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\person-holding-brown-framed-eyeglasses.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/person-in-black-pants-and-black-shoes-1024x683.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\person-in-black-pants-and-black-shoes-1024x683.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/woman-in-black-hoodie-holding-black-smartphone-1024x1536.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\woman-in-black-hoodie-holding-black-smartphone-1024x1536.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/woman-in-black-hoodie-holding-black-smartphone-200x300.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\woman-in-black-hoodie-holding-black-smartphone-200x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/woman-in-black-hoodie-holding-black-smartphone-683x1024.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\woman-in-black-hoodie-holding-black-smartphone-683x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/woman-in-black-hoodie-holding-black-smartphone-768x1152.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\woman-in-black-hoodie-holding-black-smartphone-768x1152.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/01/woman-in-black-hoodie-holding-black-smartphone.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\01\woman-in-black-hoodie-holding-black-smartphone.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/about-img-3-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\about-img-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/about-img-3-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\about-img-3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/about-img-3.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\about-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/bp-img-coparenting1-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\bp-img-coparenting1-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/bp-img-coparenting1-1.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\bp-img-coparenting1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/bp-img-coparenting1-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\bp-img-coparenting1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/bp-img-coparenting1.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\bp-img-coparenting1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/bp-img-mediation2-300x202.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\bp-img-mediation2-300x202.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/bp-img-mediation2.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\bp-img-mediation2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/bp-img-wellbeing-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\bp-img-wellbeing-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/bp-img-wellbeing.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\bp-img-wellbeing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/Divorce-300x199.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\Divorce-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/Divorce.jpg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\Divorce.jpg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-content/uploads/2024/02/woman-in-pink-shirt-sitting-by-the.jpeg
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-content\uploads\2024\02\woman-in-pink-shirt-sitting-by-the.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.childrenneedboth.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.childrenneedboth.com/wp-json/
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fconsideration-each-other%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fconsideration-each-other%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Ffamily-time-for-mental-health-well-being%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Ffamily-time-for-mental-health-well-being%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fkeep-children-safe-online%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fkeep-children-safe-online%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fparental-responsibility-raising-successful-children%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fparental-responsibility-raising-successful-children%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fprocess-of-seperating%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fprocess-of-seperating%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fresolve-parental-separation-conflicts%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F01%2F23%2Fresolve-parental-separation-conflicts%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F02%2F03%2Fbenefits-of-co-parenting-childrens-wellbeing%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F02%2F03%2Fbenefits-of-co-parenting-childrens-wellbeing%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F02%2F03%2Fchildrens-well-being%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2F2024%2F02%2F03%2Fchildrens-well-being%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2Fabout%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2Fcontact-2%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2Fcontact-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2Four-services%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2Four-services%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2Fwhat-is-mediation%2F
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.childrenneedboth.com%2Fwhat-is-mediation%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/categories/7
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\categories\7
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/pages/208
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\pages\208
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/pages/65
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\pages\65
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/pages/67
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\pages\67
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/pages/69
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\pages\69
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/pages/96
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\pages\96
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/posts/276
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\posts\276
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/posts/284
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\posts\284
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/posts/50
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\posts\50
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/posts/51
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\posts\51
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/posts/52
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\posts\52
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/posts/53
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\posts\53
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/posts/54
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\posts\54
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/posts/55
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\posts\55
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/tags/11
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\tags\11
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/tags/12
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\tags\12
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/tags/13
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\tags\13
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/tags/14
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\tags\14
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/tags/15
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\tags\15
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/tags/16
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\tags\16
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/tags/8
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\tags\8
+Content Type: application/json
+
+Uri: https://www.childrenneedboth.com/wp-json/wp/v2/tags/9
+File Name: C:\Downloaded Web Sites\www.childrenneedboth.com\wp-json\wp\v2\tags\9
+Content Type: application/json
+
